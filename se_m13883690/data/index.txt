@@ -1,0 +1,12 @@
+Word: 32f45fbd1c32cf70efc8b1700929f3083f15076ef0200c4bb1a25f4cb6caa34b
+Files it appears in: f2.txt, f5.txt, f1.txt, f3.txt
+
+Word: 0c18af8489e55e5df027c8235e83812a281badba5023428a2a77949b0da5bc32
+Files it appears in: f2.txt
+
+Word: 4b81bef2848426dae80f7b0078b4f3b69e91d7eb83b002bd7c866df0bee9fdb0
+Files it appears in: f5.txt, f1.txt, f4.txt
+
+Word: 5ae4f78cf0683c56c2c5d51c9aeb331089b03b32fd63549a3736f2957bf5d080
+Files it appears in: f1.txt, f6.txt, f4.txt
+
